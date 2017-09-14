@@ -1,5 +1,7 @@
 site_name: Sqreen
 
+theme: 'material'
+
 markdown_extensions:
   - admonition
 

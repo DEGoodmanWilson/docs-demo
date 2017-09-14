@@ -1,1 +1,16 @@
-site_name: My Docs
+site_name: Sqreen
+
+markdown_extensions:
+  - admonition
+
+pages:
+  - Home: 'index.md'
+  - Ruby:
+      - 'Getting started in Ruby': 'Sqreen for Ruby/Getting started in Ruby.md'
+      - 'Ruby agent compatibility': 'Sqreen for Ruby/Ruby agent compatibility.md'
+      - 'Installation of the Ruby Agent.md' : 'Sqreen for Ruby/Installation of the Ruby Agent.md'    
+      - 'Advanced configuration in Ruby': 'Sqreen for Ruby/Advanced configuration in Ruby.md'
+      - 'Ruby SDK for user monitoring': 'Sqreen for Ruby/Ruby SDK for user monitoring.md'
+      - 'Updating the Ruby agent': 'Sqreen for Ruby/Updating the Ruby agent.md'
+      - 'Installation on Heroku': 'Sqreen for Ruby/Installation on Heroku.md'
+      - 'Ruby agent release notes': 'Sqreen for Ruby/Ruby agent release notes.md'

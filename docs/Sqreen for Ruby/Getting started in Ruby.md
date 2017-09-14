@@ -4,7 +4,7 @@ Add Sqreen to your Ruby application to automatically monitor and protect from se
 
 ***
 
-## Introduction to Sqreen for Ruby
+# Introduction to Sqreen for Ruby
 
 The Sqreen Ruby agent monitors your application against attacks, blocks them, and help you identify and solve security issues. 
 
